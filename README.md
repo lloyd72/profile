@@ -19,7 +19,7 @@
     <a href="https://twitter.com/LlOyDSi_">Twitter</a>
     <br>
     <br>
-    🚀 Check out my projects below! 🚀
+    🚀 Check out my projects below! 🚀 
   </samp>
 </p>
 

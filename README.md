@@ -36,17 +36,6 @@
   </samp>
 </p>
 
-<!--- Contributions --->
-<h2 align="center">Contributions 🚀</h2>
-
-<p align="center">
-  <samp>
-    🌟 I actively contribute to open-source projects on GitHub! 🌟
-    <br>
-    Check out my contributions <a href="https://github.com/yourusername">here</a>.
-  </samp>
-</p>
-
 <!--- Fun Facts --->
 <h2 align="center">Fun Facts about Me 🎉</h2>
 
@@ -61,6 +50,5 @@
 </p>
 
 <!--- Footer --->
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=lloyd76.lloyd76" alt="Visitors Counter">
-</p>
+
+

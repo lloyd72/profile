@@ -1,6 +1,5 @@
 <!--- Header --->
 <p align="center">
-  <img src="https://your-image-url.com" width="200" height="200">
 </p>
 
 <h1 align="center">🚀 Welcome to Sintim Lloyd's Profile! 🚀</h1>
